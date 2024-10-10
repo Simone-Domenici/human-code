@@ -21,8 +21,9 @@
             - SE ha buona recensione E una trama interessante
                 - scelgo film
     - facciamo partire il film
-    - guardiamo film
-    - SE ho sonno
-        - interrompo film
-    - ALTRIMENTI
-        - continuo a vedere
+    - FINO A CHE il film non finisce
+        - guardiamo film
+        - SE ho sonno
+            - interrompo film
+        - ALTRIMENTI
+            - continuo a vedere
